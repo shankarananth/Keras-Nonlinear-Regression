@@ -4,9 +4,23 @@ The data for fitting was generated using a non linear continuous function. It ha
 
 ### Y = SIN(A) x EXP(B) + COS(C x C) + POWER(D,5) - TANH(E)
 
+Files:
+training.csv - Training data input to model fit
+traininggendata.xlsx - Excel sheet used to generate data from function for training set 
+trainresults.csv - Results of fit for training dataset
+valgendata.xlsx - Excel sheet used to generate data from function for validation set 
+validation.csv - Validation data used in program
+valresults.csv - Results of fit for validation dataset
 
 Created: December 2016
 
 Last Modified: 05-Jan-2017
 
 Shankar Ananth Asokan
+
+<img src="https://github.com/shankarananth/Keras-Nonlinear-Regression/blob/master/Images/image0.JPG" width="480" alt="Keras" />
+
+<img src="https://github.com/shankarananth/Keras-Nonlinear-Regression/blob/master/Images/image0.JPG" width="480" alt="Keras" />
+
+<img src="https://github.com/shankarananth/Keras-Nonlinear-Regression/blob/master/Images/image0.JPG" width="480" alt="Keras" />
+
